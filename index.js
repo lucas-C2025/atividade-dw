@@ -2,7 +2,7 @@ const token =  `7bf15bbb3d3c1d`;
 const button = document.querySelector('.btnPesquisar');
 const ipEnviado = document.getElementById('ipEnviado'); // todo elemento recebido pelo getElement é um dado html
                                                         // não é o dado em si, é preciso um .value
-                                                        // para acessar o valor, linha 12 o dado está corrigido
+                                                        // para acessar o valor, linha 12 o dado está corrigido!!
 const adicionaNoFim = document.getElementById('resultado')
 
 adicionaNoFim.innerHTML = `
